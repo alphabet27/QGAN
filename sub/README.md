@@ -1,3 +1,9 @@
+# Datasets
+```
+dataset                      - train_sequences.csv
+processed data for quantum   - penultimate.csv
+processed data for classical - ultimate.csv
+```
 # Results and Comparison
 ```
 generator_loss       (quantum)  = 0.651
